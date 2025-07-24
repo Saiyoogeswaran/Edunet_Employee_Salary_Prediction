@@ -21,3 +21,14 @@ This Streamlit-powered web app helps companies estimate the average salary they 
 2. Run the app locally:
    ```bash
    streamlit run app.py
+--
+
+## 🚀 Live Demo
+
+Want to test the salary prediction tool in real-time?
+
+👉 [Launch the app here](https://employeesalpred.streamlit.app)
+
+No installation required — just visit and explore.
+
+
