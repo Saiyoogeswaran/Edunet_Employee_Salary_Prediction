@@ -29,6 +29,11 @@ Want to test the salary prediction tool in real-time?
 
 👉 [Launch the app here](https://employeesalpred.streamlit.app)
 
+--
+
+> 🛡️ **Note**: This repository and live app are hosted via a secondary GitHub account (`grimReaper13-user`) created specifically for deployment and sharing projects on Streamlit Cloud. All code, notebooks, and models are authored by **Sai Yoogeswaran**. The app link is safe, public, and fully reflects the original work.
+
+
 No installation required — just visit and explore.
 
 
