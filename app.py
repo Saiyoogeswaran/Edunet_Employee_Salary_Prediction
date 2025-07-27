@@ -121,7 +121,7 @@ if submitted:
         processed_input = preprocess_input(user_dict)
         log_salary = best_model.predict(processed_input)
         salary = int(np.expm1(log_salary)[0])
-        st.success(f"💰 Estimated Salary: ₹{salary:,}")
+        st.success(f"💰 Estimated Salary: ${salary:,}")
     except Exception as e:
         st.error(f"Error during prediction: {e}")
 
